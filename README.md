@@ -108,10 +108,10 @@ ImageName: b_l_5.jpg
 
 Plotting the curve: Python has a custom [library](https://pypi.org/project/benfordslaw/) for Benford law. Used it to plot some curves.
 
-Clear Image Benford law Plot: The Plot approximately fits with the benford curve ![Clear Image](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/plots/FitBL.png "Clear Image BL Plot")
+Clear Image Benford law Plot: The plot approximately fits with the benford curve ![Clear Image](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/plots/FitBL.png "Clear Image BL Plot")
 
 
-Blur Image Benford law Plot: The Plot doesn't fits with the benford curve ![Blur Image](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/plots/Doesn'tFitBL.png "Blur Image BL Plot")
+Blur Image Benford law Plot: The plot doesn't fit with the benford curve ![Blur Image](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/plots/Doesn'tFitBL.png "Blur Image BL Plot")
 
 
 Having a small dataset it hard to come to conclusions. But we can draw some observations 
