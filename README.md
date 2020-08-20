@@ -114,7 +114,7 @@ Clear Image Benford law Plot: The plot approximately fits with the benford curve
 Blur Image Benford law Plot: The plot doesn't fit with the benford curve ![Blur Image](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/plots/Doesn'tFitBL.png "Blur Image BL Plot")
 
 
-Having a small dataset it hard to come to conclusions. But we can draw some observations 
+Having a small dataset it is hard to come to conclusions. But we can draw some observations 
 seeing the above results some clear images didn't fit into the Benford curve as expected but most of them did. But seeing the blur images results none of them have fit into Benford curve.
 
 Indeed images also follow Benford law.
