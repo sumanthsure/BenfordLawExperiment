@@ -120,7 +120,7 @@ seeing the above results some clear images didn't fit into the Benford curve as 
 Indeed images also follow Benford law.
 
 But I want to draw your attention towards the images 4.jpeg, 6.jpeg, 10.jpeg they exactly satisfies Benford law and Seeing those images they are stunning images(Distribution of colors in those 
-images are eye-soothing).
+images is perfect).
 
 Strange conclusion Does that mean Benford law Describes the images whether they are beautiful or not? If you have heard about the [Golden](https://www.ucsart.com/learn/blog/learn-the-golden-ratio-for-your-artworks-on-canvas) ratio(1.61803)
 this ratio creates pleasing aesthetic paintings. [Fibonacci](http://www.eniscuola.net/en/2016/06/27/the-numbers-of-nature-the-fibonacci-sequence/) series defines the many laws of nature.. In my opinion, numbers do well in defining things better than humans.
