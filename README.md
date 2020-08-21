@@ -133,7 +133,7 @@ In my further experiment will try to increase my Dataset and will include more o
 
 ## Acknowledgement
 I have heard this law while watching a youtube video and which made me think and went to discuss it with my teammates in a meeting. Astonishingly one of my teammates Nandu verified
-the law then and there itself by taking random numbers [link](https://ideone.com/UguCgq) and my manager Vijay went to explore this as well. Quite surprisingly he did it in a very different way I would recommend readers to check
+the law then and there itself by taking powers of 2 numbers [link](https://ideone.com/UguCgq) and my manager Vijay went to explore this as well. Quite surprisingly he did it in a very different way I would recommend readers to check
 his blog how did he do [link](https://lvijay.wordpress.com/2020/08/18/awk/).. Thanks to my manager who created avidity inside me to explore.
 
 >I feel Benford law resides everywhere Just you have to dig deep to find it..
