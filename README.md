@@ -54,53 +54,53 @@ Few results captured here
 
 **ClearImages Outputs:**
 
-ImageName: 1.jpeg
+ImageName: [1.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/1.jpeg)
 
 `{1: 52140, 2: 21573, 3: 20542, 4: 13129, 5: 9440, 9: 9291, 8: 7867, 7: 7312, 6: 7137}`
 
-ImageName: 4.jpeg
+ImageName: [4.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/4.jpeg)
 
 `{1: 8322809, 2: 5182842, 3: 1510828, 4: 1360005, 5: 1307336, 6: 1218815, 7: 1147098, 8: 972393, 9: 862835}`
 
-ImageName: 6.jpeg
+ImageName: [6.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/6.jpeg)
 
 `{1: 412874, 2: 116324, 3: 63072, 4: 60124, 5: 59416, 6: 59202, 7: 58944, 8: 55835, 9: 53810}`
 
-ImageName: 8.jpeg
+ImageName: [8.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/8.jpeg)
 
 `{2: 14269698, 1: 9971172, 4: 1916852, 3: 1822086, 7: 1711544, 5: 1669261, 6: 1648444, 8: 1489416, 9: 1252764}`
 
-ImageName: 13.jpeg
+ImageName: [13.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/13.jpeg)
 
 `{1: 295099, 2: 202540, 3: 77190, 4: 54971, 5: 42505, 6: 38312, 7: 36387, 9: 29779, 8: 29732}`
 
-ImageName: 14.jpeg
+ImageName: [14.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/14.jpeg]
 
 `{1: 51165, 5: 13770, 4: 13175, 6: 13022, 8: 12432, 7: 12275, 2: 11836, 9: 11208, 3: 9820}`
 
-ImageName: 16.jpeg
+ImageName: [16.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/16.jpeg)
 
 `{2: 199207, 1: 128569, 3: 12458, 4: 10059, 5: 8965, 6: 8482, 7: 7304, 8: 6895, 9: 6564}`
 
-ImageName: 19.jpeg
+ImageName: [19.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/19.jpeg)
 
 `{1: 104251, 2: 72248, 8: 12740, 6: 12308, 9: 10535, 7: 10200, 5: 8808, 3: 7604, 4: 6223}`
 
-ImageName: 20.jpeg
+ImageName: [20.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/20.jpeg]
 
 `{1: 957314, 2: 627375, 3: 358111, 4: 357421, 5: 305845, 6: 230944, 7: 143891, 8: 115389, 9: 113790}`
 
 **BlurImages Outputs:**
 
-ImageName: b_1.jpeg
+ImageName: [b_1.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_1.jpeg)
 
 `{2: 75680, 1: 39616, 9: 10051, 8: 7149, 3: 6850, 7: 4307, 4: 3024, 6: 2305, 5: 2095}`
 
-ImageName: b_3.jpg
+ImageName: [b_3.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_3.jpg]
 
 `{1: 1157347, 2: 329244, 5: 203509, 6: 190063, 8: 189189, 7: 188227, 9: 182061, 4: 176101, 3: 147946}`
 
-ImageName: b_l_5.jpg
+ImageName: [b_l_5.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_l_5.jpg]
 
 `{1: 1301842, 2: 548830, 9: 103763, 8: 100912, 7: 96906, 6: 85240, 5: 58263, 4: 36670, 3: 27239}`
 
@@ -133,7 +133,7 @@ In my further experiment will try to increase my Dataset and will include more o
 
 ## Acknowledgement
 I have heard this law while watching a youtube video and which made me think and went to discuss it with my teammates in a meeting. Astonishingly one of my teammates Nandu verified
-the law then and there itself by taking powers of 2 numbers [link](https://ideone.com/UguCgq) and my manager Vijay went to explore this as well. Quite surprisingly he did it in a very different way I would recommend readers to check
+the law then and there itself by taking powers of 2[link](https://ideone.com/UguCgq) and my manager Vijay went to explore this as well. Quite surprisingly he did it in a very different way I would recommend readers to check
 his blog how did he do [link](https://lvijay.wordpress.com/2020/08/18/awk/).. Thanks to my manager who created avidity inside me to explore.
 
 >I feel Benford law resides everywhere Just you have to dig deep to find it..
