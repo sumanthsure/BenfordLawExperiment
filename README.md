@@ -74,7 +74,7 @@ ImageName: [13.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/ma
 
 `{1: 295099, 2: 202540, 3: 77190, 4: 54971, 5: 42505, 6: 38312, 7: 36387, 9: 29779, 8: 29732}`
 
-ImageName: [14.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/14.jpeg]
+ImageName: [14.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/14.jpeg)
 
 `{1: 51165, 5: 13770, 4: 13175, 6: 13022, 8: 12432, 7: 12275, 2: 11836, 9: 11208, 3: 9820}`
 
@@ -86,7 +86,7 @@ ImageName: [19.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/ma
 
 `{1: 104251, 2: 72248, 8: 12740, 6: 12308, 9: 10535, 7: 10200, 5: 8808, 3: 7604, 4: 6223}`
 
-ImageName: [20.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/20.jpeg]
+ImageName: [20.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/20.jpeg)
 
 `{1: 957314, 2: 627375, 3: 358111, 4: 357421, 5: 305845, 6: 230944, 7: 143891, 8: 115389, 9: 113790}`
 
@@ -96,11 +96,11 @@ ImageName: [b_1.jpeg](https://github.com/sumanthsure/BenfordLawExperiment/blob/m
 
 `{2: 75680, 1: 39616, 9: 10051, 8: 7149, 3: 6850, 7: 4307, 4: 3024, 6: 2305, 5: 2095}`
 
-ImageName: [b_3.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_3.jpg]
+ImageName: [b_3.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_3.jpg)
 
 `{1: 1157347, 2: 329244, 5: 203509, 6: 190063, 8: 189189, 7: 188227, 9: 182061, 4: 176101, 3: 147946}`
 
-ImageName: [b_l_5.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_l_5.jpg]
+ImageName: [b_l_5.jpg](https://github.com/sumanthsure/BenfordLawExperiment/blob/master/dataset/b_l_5.jpg)
 
 `{1: 1301842, 2: 548830, 9: 103763, 8: 100912, 7: 96906, 6: 85240, 5: 58263, 4: 36670, 3: 27239}`
 
